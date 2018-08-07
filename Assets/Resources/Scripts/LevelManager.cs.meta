@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a82494e61ce2e1b4e8107f62de43d0e1
+timeCreated: 1533433621
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - start_room: {fileID: 1345038224897404, guid: 81f22d2245f98ea42ac4c7821cf629c7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
